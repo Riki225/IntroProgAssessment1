@@ -1,0 +1,16 @@
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.exe
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.deps.json
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.runtimeconfig.json
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.runtimeconfig.dev.json
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.dll
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\ref\introprogassessment1.dll
+C:\Users\Riki\projects\introprogassessment1\bin\Debug\net5.0\introprogassessment1.pdb
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.csprojAssemblyReference.cache
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.AssemblyInfoInputs.cache
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.AssemblyInfo.cs
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.csproj.CoreCompileInputs.cache
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.dll
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\ref\introprogassessment1.dll
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.pdb
+C:\Users\Riki\projects\introprogassessment1\obj\Debug\net5.0\introprogassessment1.genruntimeconfig.cache
